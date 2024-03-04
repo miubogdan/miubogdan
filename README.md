@@ -10,7 +10,6 @@ This project contains a collection of SQL queries designed to demonstrate my exp
 
 ### Project 2: [Bike Rides Analysis with Python and Tableau](https://github.com/miubogdan/Bike-Rides-Analysis/tree/main)
 In this project I programmatically gather the data, explore and manipulate it using Python pandas library and then I create impactful interactive visualizations in Tableau, including total bike rides, moving average, temperature vs windspeed heatmap, rides split by weather and hour.
-Tableau link for interactive visualization [here](https://public.tableau.com/app/profile/bogdan.miu/viz/LondonBikeRides_17092169883090/Dashboard1)
 
 ### Project 3: [Crime Analysis with Python](https://github.com/miubogdan/crime-analysis/tree/main)
 I’m using a large dataset with over 300k rows and 17 columns containing crimes that occurred in Boston between 2015 and 2018. I use the numpy, pandas, matplotlib and seaborn libraries to read, explore and respond to some questions at the end of the notebook, using charts and heatmaps. 
@@ -22,4 +21,4 @@ This project addresses British Airways' challenge in understanding customer sati
 In this project I’m gathering the data, transform it then use pivot tables and pivot charts to build a dynamic interactive coffee sales dashboard. The dashboard includes line chart with total sales over time by the type of coffee, option to filter data by period/size/card/roast type, sales by country and top 5 customers. 
 
 ### Project 6: [A simple Wikipedia scraper with Python](https://github.com/miubogdan/WikiScraper1)
-A simple web scraper that accesses the [FTSE 100 index](https://en.wikipedia.org/wiki/FTSE_100_Index) Wikipedia page, searches for the Constituents table, then goes to each company page to gather the company information then writes in in a CSV.
+A simple web scraper that accesses the FTSE 100 index Wikipedia page, searches for the Constituents table, then goes to each company page to gather the company information then writes in in a CSV.
